@@ -3,17 +3,7 @@ A Protein-Protein Interaction (PPI) network is a graphical representation of the
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <strong>Video 1</strong><br>
-      <a href="./video1.mp4">
-        <img src="./vid1.gif" width="100%" alt="Video 1 preview">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <strong>Video 2</strong><br>
-      <a href="./2.mp4">
-        <img src="./vid2.gif" width="100%" alt="Video 2 preview">
-      </a>
-    </td>
+    <td><img src="vid1.gif" alt="First GIF" width="400"/></td>
+    <td><img src="vid2.gif" alt="Second GIF" width="400"/></td>
   </tr>
 </table>
